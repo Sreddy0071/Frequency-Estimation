@@ -35,5 +35,10 @@ The study performs a comparative analysis of MUSIC and EV algorithms for spectra
 - MSE vs. SNR plots for both algorithms
 - Performance trends under different simulation conditions
 
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it with proper attribution.
+
 
 
